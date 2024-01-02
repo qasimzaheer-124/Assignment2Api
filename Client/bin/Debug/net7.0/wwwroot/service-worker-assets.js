@@ -865,25 +865,25 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-bf0D9T6bZxMDz46EC7BMHMvORQWd8\/NZmlOKB6\/sUmQ=",
+      "hash": "sha256-n03ceeQ\/sKvSXjKEYgSrlpDa1pBbBzYdUd0EkJtgPTY=",
       "url": "_framework\/Assignment2Api.Shared.dll"
     },
     {
-      "hash": "sha256-x7\/9Tg0a9kgEg4nwizhRDhKGp4+Rt2JE50Nym4ZWavQ=",
+      "hash": "sha256-TDshqerq3yos+99iH26\/9lk4lD9X1BhYTX3fboT5Hfg=",
       "url": "_framework\/Assignment2Api.Shared.pdb"
     },
     {
-      "hash": "sha256-KnzWyPVij0Op180VrGhfD7sSIslUshL20MrY8aC401g=",
+      "hash": "sha256-ajcrlW1QiscUf4d9Rt8es0F1jg9UbQQNgD0xsZWize0=",
       "url": "_framework\/Assignment2Api.Client.dll"
     },
     {
-      "hash": "sha256-KvjoHeLnaUuS5dZv9KVSLRhL3iLJXEtcyaPYnwqkIqU=",
+      "hash": "sha256-b8n+u0Hwekw9n0zPiZdrEJm\/vUX9tZJJPLlJYqAP6ZM=",
       "url": "_framework\/Assignment2Api.Client.pdb"
     },
     {
-      "hash": "sha256-M9zHprGPsjW7AOVkaM8K\/QyO+nbWBETyksoykCn6rjA=",
+      "hash": "sha256-r5Zn076ZK9cgTWJukIX5YQHTgC8f2Olzz0CP+2O\/k6E=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "kF8KjzF1"
+  "version": "wnkBmRIA"
 };

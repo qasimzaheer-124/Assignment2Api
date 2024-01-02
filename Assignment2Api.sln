@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment2Api.Server", "Server\Assignment2Api.Server.csproj", "{5D1C1AE7-8EB3-410C-B2BF-AEEE947792F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment2Api.Server", "Server\Assignment2Api.Server.csproj", "{5D1C1AE7-8EB3-410C-B2BF-AEEE947792F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment2Api.Client", "Client\Assignment2Api.Client.csproj", "{61A2F759-0C50-4FE4-95BB-A69395C4D36E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment2Api.Client", "Client\Assignment2Api.Client.csproj", "{61A2F759-0C50-4FE4-95BB-A69395C4D36E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment2Api.Shared", "Shared\Assignment2Api.Shared.csproj", "{D72A6320-078B-42DE-93E8-A28B072DEDE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment2Api.Shared", "Shared\Assignment2Api.Shared.csproj", "{D72A6320-078B-42DE-93E8-A28B072DEDE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -9,3 +9,4 @@ C:\Users\jahan\source\repos\Assignment2Api\Shared\obj\Debug\net7.0\Assignment2Ap
 C:\Users\jahan\source\repos\Assignment2Api\Shared\obj\Debug\net7.0\refint\Assignment2Api.Shared.dll
 C:\Users\jahan\source\repos\Assignment2Api\Shared\obj\Debug\net7.0\Assignment2Api.Shared.pdb
 C:\Users\jahan\source\repos\Assignment2Api\Shared\obj\Debug\net7.0\ref\Assignment2Api.Shared.dll
+C:\Users\jahan\source\repos\Assignment2Api\Shared\obj\Debug\net7.0\Assignment2Api.Shared.sourcelink.json

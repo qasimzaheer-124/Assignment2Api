@@ -837,3 +837,4 @@ C:\Users\jahan\source\repos\Assignment2Api\Client\obj\Debug\net7.0\Assignment2Ap
 C:\Users\jahan\source\repos\Assignment2Api\Client\obj\Debug\net7.0\refint\Assignment2Api.Client.dll
 C:\Users\jahan\source\repos\Assignment2Api\Client\obj\Debug\net7.0\Assignment2Api.Client.pdb
 C:\Users\jahan\source\repos\Assignment2Api\Client\obj\Debug\net7.0\ref\Assignment2Api.Client.dll
+C:\Users\jahan\source\repos\Assignment2Api\Client\obj\Debug\net7.0\Assignment2Api.Client.sourcelink.json
